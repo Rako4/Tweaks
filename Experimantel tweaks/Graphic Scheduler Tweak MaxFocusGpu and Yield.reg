@@ -1,0 +1,6 @@
+Windows Registry Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
+"HwQueuePacketCap"=dword:00000100
+"MaxFocusGpuQuantumWithoutPresent"=dword:00000001
+"YieldPercentage"=dword:00000001
+"MaxYieldInterval"=dword:00000010

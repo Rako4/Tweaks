@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Power]
+"DisableDevicePowerRequired"=dword:00000001
+"DisablePStateManagement"=dword:00000001
+"EnableRuntimePowerManagement"=dword:00000000

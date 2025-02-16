@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"SystemResponsiveness"=dword:00000000
+"IdleDetectionCycles"=dword:00000000
+"LazyModeTimeout"=dword:00000000
+"NoLazyMode"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\DisplayPostProcessing]
+"BackgroundPriority"=dword:0000001f
+"Latency Sensitive"="True"
+"GPU Priority"=dword:0000001f
+"Priority"=dword:00000008
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"Latency Sensitive"="True"
+"GPU Priority"=dword:0000001f
+"Priority"=dword:00000008
+"Scheduling Category"="High"
+"SFIO Priority"="High"

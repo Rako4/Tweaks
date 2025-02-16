@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
+"BackgroundProcessMaximumAllowedPreemptionDelay"=dword:00000000
+"ContextSchedulingPenaltyDelay"=dword:00000000
+"EnableContextDelay"=dword:00000000
+"EnablePreemption"=dword:00000001
+"ForegroundPriorityBoost"=dword:00000001
+"MaximumAllowedPreemptionDelay"=dword:00000000
+"VSyncIdleTimeout"=dword:00000000

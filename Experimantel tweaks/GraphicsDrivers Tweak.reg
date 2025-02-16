@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
+"CreateGdiPrimaryOnSlaveGpu"=dword:00000001
+"ForceDirectFlip"=dword:00000001
+"ForceEnableDxgMms2"=dword:00000001
+"ForceReplicateGdiContent"=dword:00000001
