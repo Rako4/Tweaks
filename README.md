@@ -14,8 +14,6 @@ Tested & Stable Tweaks
 
 Optimizations verified by the community.
 
-Includes benchmarks before/after where available.
-
 Experimental/Untested Tweaks
 
 Use with caution! Labeled as [UNVERIFIED].
